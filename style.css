@@ -1,15 +1,15 @@
 .jumbotron {
   padding-top: 6rem;
-  background-color: #7970cd;
+  background-color: #334756;
 }
 
 #gallery {
-  background-color: #7970cd;
+  background-color: #334756;
 }
 footer {
   width: auto;
 
-  background-color: #00008b;
+  background-color: #f0a500;
 }
 footer ul {
   display: flex;
